@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Practicing FLOW</title>
+<style>
+#flow1{
+	background-color:gray;
+	border-color:black
+	border:1px
+}
+</style>
+</head>
+<body>
+<h1>Flow statements</h1>
+<p id=flow1>text1</p>
+<p id=flow2>text2</p>
+<p id=flow3>text3</p>
+<p id=flow4>text4</p>
+</body>
+</html>
